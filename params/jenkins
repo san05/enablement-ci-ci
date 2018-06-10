@@ -3,6 +3,4 @@ VOLUME_CAPACITY=10Gi
 JVM_ARCH=x86_64
 NAMESPACE=san-ci-cd
 JENKINS_OPTS=--sessionTimeout=720
-gitUsername = System.getenv("san05") ?: "san05"
-gitUsername = System.getenv("san05") ?: "san05"
-gitPassword = System.getenv("sankara0501!!") ?: "sankara0501!!"
+
